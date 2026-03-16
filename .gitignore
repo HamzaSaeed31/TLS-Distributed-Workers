@@ -1,0 +1,49 @@
+# Compiled artifacts
+*.o
+*.obj
+*.exe
+*.dll
+*.lib
+*.a
+*.pdb
+
+# Build dirs
+x64/
+Debug/
+Release/
+.vs/
+bin/
+obj/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+airflow_env/
+venv/
+env/
+.env
+*.egg-info/
+
+# Archives & large files
+*.zip
+*.rar
+*.7z
+*.mp4
+*.avi
+
+# Node
+node_modules/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+*.suo
+*.user
+*.key
+*.pem
+*.crt
+*.p12
+*.pfx
